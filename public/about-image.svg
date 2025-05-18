@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400">
+  <!-- Arka plan -->
+  <rect width="600" height="400" fill="#f0f9ff" />
+  
+  <!-- Teknisyen figürü -->
+  <circle cx="200" cy="150" r="50" fill="#2563eb" />
+  <rect x="175" y="200" width="50" height="100" fill="#1e40af" />
+  <rect x="150" y="200" width="25" height="80" fill="#1e40af" />
+  <rect x="225" y="200" width="25" height="80" fill="#1e40af" />
+  <rect x="175" y="300" width="20" height="50" fill="#1e3a8a" />
+  <rect x="205" y="300" width="20" height="50" fill="#1e3a8a" />
+  
+  <!-- Tamir edilen cihaz -->
+  <rect x="350" y="150" width="150" height="200" rx="10" fill="#e5e7eb" stroke="#2563eb" stroke-width="3" />
+  <line x1="350" y1="200" x2="500" y2="200" stroke="#2563eb" stroke-width="3" />
+  <rect x="380" y="220" width="20" height="30" rx="3" fill="#2563eb" />
+  <rect x="420" y="220" width="20" height="30" rx="3" fill="#2563eb" />
+  <rect x="460" y="220" width="20" height="30" rx="3" fill="#2563eb" />
+  
+  <!-- Aletler -->
+  <rect x="250" y="150" width="70" height="10" rx="2" fill="#6b7280" />
+  <rect x="280" y="150" width="10" height="20" rx="2" fill="#374151" />
+  <circle cx="300" cy="260" r="20" fill="#9ca3af" />
+  <circle cx="300" cy="260" r="15" fill="#6b7280" />
+  <circle cx="300" cy="260" r="10" fill="#374151" />
+  <rect x="270" y="230" width="60" height="10" rx="2" fill="#6b7280" />
+  
+  <!-- Onay işareti -->
+  <circle cx="420" cy="300" r="30" fill="#10b981" fill-opacity="0.3" stroke="#10b981" stroke-width="2" />
+  <path d="M405 300 L415 310 L435 290" fill="none" stroke="#10b981" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+</svg> 

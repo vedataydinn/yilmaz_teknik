@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400">
+  <!-- Arka plan -->
+  <rect width="800" height="400" fill="#f0f9ff" />
+  
+  <!-- Buzdolabı tamir görseli -->
+  <rect x="250" y="50" width="300" height="300" rx="10" fill="#e5e7eb" stroke="#2563eb" stroke-width="3" />
+  <line x1="250" y1="150" x2="550" y2="150" stroke="#2563eb" stroke-width="3" />
+  <rect x="280" y="180" width="30" height="50" rx="2" fill="#2563eb" />
+  <rect x="330" y="180" width="30" height="50" rx="2" fill="#2563eb" />
+  
+  <!-- Teknisyen -->
+  <circle cx="600" cy="150" r="40" fill="#2563eb" />
+  <rect x="580" y="190" width="40" height="80" fill="#1e40af" />
+  <rect x="560" y="190" width="20" height="60" fill="#1e40af" />
+  <rect x="620" y="190" width="20" height="60" fill="#1e40af" />
+  
+  <!-- Tamir aletleri -->
+  <rect x="150" y="200" width="80" height="10" rx="2" fill="#6b7280" />
+  <circle cx="150" cy="205" r="5" fill="#374151" />
+  <rect x="120" y="220" width="30" height="40" rx="2" fill="#9ca3af" />
+  <circle cx="170" cy="230" r="10" fill="#6b7280" />
+  
+  <!-- Onay işareti -->
+  <circle cx="450" cy="250" r="30" fill="#10b981" fill-opacity="0.3" stroke="#10b981" stroke-width="2" />
+  <path d="M435 250 L445 260 L465 240" fill="none" stroke="#10b981" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+</svg> 

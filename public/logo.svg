@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="50" viewBox="0 0 200 50">
+  <style>
+    @keyframes pulse {
+      0% { opacity: 1; }
+      50% { opacity: 0.7; }
+      100% { opacity: 1; }
+    }
+    .logo-text {
+      animation: pulse 2s infinite;
+    }
+  </style>
+  <rect width="50" height="50" fill="#e74c3c" rx="10" />
+  <text x="60" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#962d22" class="logo-text">Yılmaz</text>
+  <text x="135" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#e74c3c" class="logo-text">Teknik</text>
+  <path d="M25 15 L15 35 L35 35 Z" fill="white" />
+  <circle cx="25" cy="25" r="5" fill="white" />
+</svg> 
