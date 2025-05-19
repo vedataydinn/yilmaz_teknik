@@ -37,7 +37,7 @@ const Hero = () => {
         <div ref={titleRef} className="text-center md:text-left space-y-6">
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-red-900 leading-tight">
             Beyaz Eşya & Klima <br className="hidden md:block" />
-            <span className="text-red-600">Teknik Servisi</span>
+            <span className="text-red-600">Tamir Bakım ve Montaj</span>
           </h1>
           <p className="text-lg md:text-xl text-red-800 max-w-lg mx-auto md:mx-0">
             Uzman kadromuz ve kaliteli hizmet anlayışımızla tüm beyaz eşya ve klima sorunlarınızda yanınızdayız.
