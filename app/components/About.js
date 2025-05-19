@@ -68,7 +68,7 @@ const About = () => {
           <div ref={imageRef} className="flex justify-center">
             <div className="relative w-full max-w-md h-72 md:h-96 rounded-lg overflow-hidden shadow-lg">
               <Image 
-                src="/images/tamir.png" 
+                src="/images/tamiri.png" 
                 alt="Yılmaz Teknik Servis" 
                 fill
                 className="object-cover"
