@@ -26,8 +26,8 @@ const services = [
   },
   {
     id: 'klima',
-    title: 'Klima Bakım ve Tamiri',
-    description: 'Periyodik bakım, gaz dolumu, arıza tespiti ve tamiri ile klimanızı ilk günkü gibi çalıştırıyoruz.',
+    title: 'Klima Montaj-Bakım ve Tamiri',
+    description: 'Klima montajı,Periyodik bakım, gaz dolumu, arıza tespiti ve tamiri ile klimanızı ilk günkü gibi çalıştırıyoruz.',
     image: '/images/klima.png',
   },
   {

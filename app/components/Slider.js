@@ -26,8 +26,8 @@ const slides = [
   {
     id: 'slide-3',
     image: '/images/klima.png',
-    title: 'Klima Bakım ve Tamiri',
-    description: 'Klima bakımı ve tamiri ile yazın serin, kışın sıcak bir ortam sağlıyoruz.'
+    title: 'Klima Montaj-Bakım ve Tamiri',
+    description: 'Klima montaj,bakım ve tamiri ile yazın serin, kışın sıcak bir ortam sağlıyoruz.'
   }
 ];
 
