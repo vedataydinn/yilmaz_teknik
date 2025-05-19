@@ -103,8 +103,8 @@ const Contact = () => {
                 <div>
                   <h3 className="text-xl font-semibold text-red-800 mb-2">Çalışma Saatleri</h3>
                   <p className="text-gray-700">
-                    Hafta içi: 08:30 - 18:30 <br />
-                    Cumartesi: 09:00 - 17:00 <br />
+                    Hafta içi: 08:00 - 19:00 <br />
+                    Cumartesi: 08:00 - 20:00 <br />
                     Pazar: Kapalı
                   </p>
                   <p className="text-sm text-red-600 mt-1">*Acil durumlarda 7/24 hizmet vermekteyiz.</p>
@@ -117,7 +117,7 @@ const Contact = () => {
             <h3 className="text-xl font-semibold text-red-800 mb-4">Konum</h3>
             <div className="w-full h-80 rounded-lg overflow-hidden">
               <iframe 
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d50331.49240797259!2d39.166612079101566!3d38.6719257!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4076c0078f0799cd%3A0x51c34a5a1e71eb48!2zRWxhesSx!5e0!3m2!1str!2str!4v1652970186596!5m2!1str!2str" 
+                src="https://www.google.com/maps?q=38.6711944,39.2331389&hl=tr&z=16&output=embed" 
                 width="100%" 
                 height="100%" 
                 style={{ border: 0 }}
@@ -126,6 +126,11 @@ const Contact = () => {
                 referrerPolicy="no-referrer-when-downgrade"
                 title="Yılmaz Teknik Konum"
               ></iframe>
+              <div className="mt-2 text-center">
+                <a href="https://maps.app.goo.gl/e4HynpS3E6uD1QXc9" target="_blank" rel="noopener noreferrer" className="text-red-600 underline hover:text-red-800">
+                  Google Haritalar'da Aç
+                </a>
+              </div>
             </div>
           </div>
         </div>

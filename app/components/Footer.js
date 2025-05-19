@@ -88,8 +88,8 @@ const Footer = () => {
               <li className="flex items-start space-x-3">
                 <FaClock className="text-red-300 mt-1" />
                 <div>
-                  <span className="text-red-200 block">Hafta içi: 08:30 - 18:30</span>
-                  <span className="text-red-200 block">Cumartesi: 09:00 - 17:00</span>
+                  <span className="text-red-200 block">Hafta içi: 08:00 - 19:00</span>
+                  <span className="text-red-200 block">Cumartesi: 08:00 - 20:00</span>
                   <span className="text-red-200 block">Pazar: Kapalı</span>
                 </div>
               </li>
